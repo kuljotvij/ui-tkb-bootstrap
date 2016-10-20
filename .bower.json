@@ -1,8 +1,8 @@
 {
   "name": "bootstrap",
   "main": [
-    "./dist/css/tkb-bootstrap.css",
-    "./dist/js/tkb-bootstrap.js",
+    "./dist/css/bootstrap.css",
+    "./dist/js/bootstrap.js",
     "./dist/fonts/glyphicons-halflings-regular.eot",
     "./dist/fonts/glyphicons-halflings-regular.svg",
     "./dist/fonts/glyphicons-halflings-regular.ttf",
@@ -20,12 +20,14 @@
   "dependencies": {
     "jquery": ">= 1.9.0"
   },
-  "_release": "5ff06a4",
+  "homepage": "https://github.com/kuljotvij/ui-tkb-bootstrap",
+  "_release": "b4422e78fe",
   "_resolution": {
-    "type": "commit",
-    "commit": "5ff06a4"
+    "type": "branch",
+    "branch": "master",
+    "commit": "b4422e78fe1a76306d527899b193d9b82a561107"
   },
-  "_source": "https://bitbucket.org/kuljotvij/ui-tkb-bootstrap.git",
-  "_target": "5ff06a4",
-  "_originalSource": "https://bitbucket.org/kuljotvij/ui-tkb-bootstrap.git"
+  "_source": "https://github.com/kuljotvij/ui-tkb-bootstrap.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/kuljotvij/ui-tkb-bootstrap.git"
 }
